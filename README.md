@@ -51,19 +51,19 @@ Connects to the drone and executes the callback when the drone is ready to drive
 
 #### forward(speed)
 
-Move the drone forward at the specified speed (between 0 and 127).
+Move the drone forward at the specified speed (between 0 and 100).
 
 #### backward(speed)
 
-Move the drone backward at the specified speed (between 0 and 127).
+Move the drone backward at the specified speed (between 0 and 100).
 
 #### right(speed)
 
-Turn the drone right at the specified speed (between 0 and 127).
+Turn the drone right at the specified speed (between 0 and 100).
 
 #### left(speed)
 
-Turn the drone right at the specified speed (between 0 and 127).
+Turn the drone right at the specified speed (between 0 and 100).
 
 #### stop()
 
